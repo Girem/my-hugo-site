@@ -1,4 +1,7 @@
+
 baseURL = "http://localhost:1313/"
+=======
+baseURL = "https://vermillion-taiyaki-7d8b13.netlify.app/"
 languageCode = "en-us"
 title = "My Hugo Site"
 theme = "ananke"
