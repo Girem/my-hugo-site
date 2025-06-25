@@ -1,5 +1,6 @@
 ---
-title: "Welcome"
+title: "თერაპია საქართველოში"
 ---
 
-This is the homepage of my new Hugo site.
+კეთილი იყოს შენი მობრძანება ჩემს ვებსაიტზე.
+ვებ გვერდი აწყობის პროცესშია
